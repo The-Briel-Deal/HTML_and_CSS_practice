@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+img {
+  width: 50%;
+  border-radius: 15px;
+}
+body {
+  justify-content: flex-start;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  background-color: #FFE8D4;
+}
+h1, h2, h3 {
+  color: #7F055F;
+  justify-content: flex-start;
+}
+p {
+  color: #7F055F;
+  font-size: 40px;
+  justify-content: flex-start;
+  strong;
+}
